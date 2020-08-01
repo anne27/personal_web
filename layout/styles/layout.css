@@ -67,7 +67,7 @@ File: Layout CSS
 .services article{display:block; text-align:center;}
 .services article *{margin:0 0 15px 0;}
 .services article > :last-child{margin-bottom:0;}
-.services article .heading{font-size:1.2rem;}
+.services article .heading{font-size:.2rem;}
 
 .logos li:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
 .logos li a{display:inline-block; max-width:100%;}
